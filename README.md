@@ -2,6 +2,10 @@
 
 This project is a web application built with React, TypeScript, and Vite, designed to provide a dashboard for managing and visualizing user data. It includes features for displaying a list of users, recent joined users, and various user statistics through interactive charts.
 
+## Live Demo
+
+You can view a live demo of the application here: [User Dashboard Live Demo](https://meetprajapati10.github.io/user-dashboard/)
+
 ## Key Features
 
 - **Dashboard Overview:** A comprehensive dashboard displaying key metrics and insights.
